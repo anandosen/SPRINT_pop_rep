@@ -20,4 +20,8 @@ GIST calculations
 
 11. mGIST_calc - Calculation of GIST scores
 
+For questions and comments, please contact:
+Dr. Anando Sen
+anandosen@gmail.com
+
 
